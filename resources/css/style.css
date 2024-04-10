@@ -52,8 +52,8 @@ body {
      transform: translateY(5%);
 }
 
-footer {
-     font-size: 13px;
+#footer {
+     font-size: 20px;
      width: 100%;
      color: gray;
      text-align: right;
