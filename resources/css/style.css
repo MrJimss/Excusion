@@ -1,18 +1,60 @@
-h1 {
-     text-align: center;
+#maintitle  {
      font-size: 50px;
      font-family: Verdana;
      font-weight: normal;
      color: white;
 }
+#subtitle {
+     transform: translateY(50%);
+     font-size: 42px;
+     font-family: Verdana;
+     font-weight: 300;
+     color: white;
+     margin-bottom: 10 auto;
+
+}
 body {
      background-color: #000000;
      font-family: Verdana;
+     text-align: center;
+}
+#phoneVid {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     transform: translateY(5%);
 }
 
-#Center a {
+#Center a{
      display: block;
      text-align: center;
      font-size: 16px;
      color: aquamarine;
+}
+
+#description {
+     margin: 2% auto;
+     font-size: 21px;
+     font-family: Verdana;
+     color: gray;
+}
+#tent
+{
+     display: block;
+     margin: 1% auto;
+
+}
+
+#icon {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     transform: translateY(5%);
+}
+
+footer {
+     font-size: 13px;
+     width: 100%;
+     color: gray;
+     text-align: right;
 }
